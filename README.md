@@ -1,8 +1,8 @@
 # CI_shiny_presentation
-It the presentation on 05.01.17 at Chemnitz.
-The slides made by rmarkdown.
+It was the presentation on 05.01.17 at Chemnitz.
+The slides were made by rmarkdown.
 
-There were two errors when I render the pdf even having LaTex on OSX.
+There were two errors when I render the pdf even having LaTex on OS X.
 Solutions have been discussed on the web.
 
 (1) cannot find pdflatex
