@@ -11,7 +11,7 @@ http://stackoverflow.com/questions/22081991/rmarkdown-pandoc-pdflatex-not-found
 Sol:
 Add symbolic link to `/Library/TeX/textbin`
 
-`ln -s /Library/TeX/Distributions/.DefaultTeX/Contents/Programs/texbin /Library/TeX/textbin`
+`ln -s /Library/TeX/Distributions/.DefaultTeX/Contents/Programs/textbin /Library/TeX/textbin`
 check if `/Library/Tex/textbin` is in `$PATH`
 
 (2) pandoc document conversion failed with error 41
