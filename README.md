@@ -18,7 +18,7 @@ check if `/Library/Tex/textbin` is in `$PATH`
 https://github.com/rstudio/shiny-examples/issues/34
 
 Sol:
-Add the path into `$PATH`.
+Add the path into `$PATH` in R environment
 
 Use `Sys.setenv(PATH = "original_one + new_symbolic_link")`
 
